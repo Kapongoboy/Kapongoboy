@@ -1,8 +1,7 @@
-👋 Hi, I’m Kapongoboy
-👀 I’m interested in the arts but most of my educational training is in tech
-🌱 I’m currently learning python for web development
-💞️ I’m looking to collaborate on entry level projects to meet other new programmers
-📫 How to reach me? Just shoot a mail to plamedi.luis11@gmail.com
+Hey hey, I'm Plamedi, it's nice to meet you
+I'm currently studying for a bachelor's degree in Electronic Engineering
+In my free time I'm trying to get better at Python, C++ and Javascript
+Don't be shy to shoot me a message at plamedi.luis11@gmail.com
 
 <!---
 Kapongoboy/Kapongoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
