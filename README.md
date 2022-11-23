@@ -1,4 +1,4 @@
-Hey hey, I'm Plamedi, it's nice to meet you \
+Hey hey, I'm Plamedi Luis, it's nice to meet you \
 I'm currently studying for a bachelor's degree in Electronic Engineering \
 In my free time I'm trying to get better at Python, C++ and Javascript \
 Don't be shy to shoot me a message at plamedi.luis11@gmail.com \
